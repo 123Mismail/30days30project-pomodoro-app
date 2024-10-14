@@ -180,7 +180,7 @@ const PomodoroTimer = () => {
           <Button
             variant={"outline"}
             className="rounded-full hover:border-orange-400"
-            onClick={handleResetBtn}
+            onClick={handleResetBtn} 
           >
             {" "}
             <RefreshCwIcon />{" "}
